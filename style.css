@@ -123,7 +123,15 @@ footer{
 .footer1{
   color: white;
 }
-section{
+.main{
   height: 100vh;
+  padding: 60px 20px;
 }
+.About,
+.Contact,
+.service{
+  min-height: 100vh;
+  padding: 60px 20px;
+}
+
 
