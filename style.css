@@ -44,6 +44,7 @@ header{
   align-items: center;
   margin: 20px 10%;
   text-align: center;
+  height: 100vh;
 }
 
 span{
@@ -121,4 +122,5 @@ footer{
 }
 .footer1{
   color: white;
+
 }
