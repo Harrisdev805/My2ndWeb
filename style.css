@@ -122,5 +122,8 @@ footer{
 }
 .footer1{
   color: white;
-
 }
+section{
+  height: 100vh;
+}
+
