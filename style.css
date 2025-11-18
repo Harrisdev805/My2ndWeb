@@ -44,7 +44,6 @@ header{
   align-items: center;
   margin: 20px 10%;
   text-align: center;
-  height: 100vh;
 }
 
 span{
@@ -54,7 +53,7 @@ span{
   align-items: center;
   text-align: center;
   background-color: red;
-  padding: 50px;
+  padding: 29px;
 }
 .about1 p{
   color: white;
@@ -77,7 +76,7 @@ span{
 }
 .service{
   text-align: center;
-  padding: 50px;
+  padding: 20px;
 }
 .service-box:hover{
   background-color: white;
@@ -124,15 +123,8 @@ footer{
 .footer1{
   color: white;
 }
-.main{
-  height: 100vh;
-  padding: 50px;
-}
-.About,
-.Contact,
-.service{
-  min-height: 100vh;
-}
+
+
 
 
 
