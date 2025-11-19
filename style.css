@@ -122,10 +122,17 @@ sction{
 footer{
   text-align: center;
   background-color: red;
+  margin-top: 50px;
+  height: 30vh;
+  padding-top: 30px;
 }
 .footer1{
   color: white;
 }
+section{
+  min-height: 100vh;
+}
+
 
 
 
