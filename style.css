@@ -44,6 +44,8 @@ header{
   align-items: center;
   margin: 20px 10%;
   text-align: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
 }
 
 span{
@@ -53,7 +55,7 @@ span{
   align-items: center;
   text-align: center;
   background-color: red;
-  padding: 29px;
+  padding: 20px;
 }
 .about1 p{
   color: white;
@@ -109,6 +111,8 @@ span{
 .btn:hover{
   background-color: black;
 }
+sction{
+  min-height: 100vh;
 
 .form input:hover{
  background-color: red;
@@ -123,6 +127,7 @@ footer{
 .footer1{
   color: white;
 }
+
 
 
 
