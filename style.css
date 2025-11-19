@@ -40,12 +40,11 @@ header{
 }
 .main{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   margin: 20px 10%;
   text-align: center;
   flex-wrap: wrap;
-  min-height: 100vh;
 }
 
 span{
@@ -87,6 +86,7 @@ span{
 .Contact{
   text-align: center;
   padding: 50px;
+  border: 2px solid red;
 }
 .form{
   display: flex;
@@ -122,11 +122,11 @@ sction{
 footer{
   text-align: center;
   background-color: red;
-  padding: 20px;
 }
 .footer1{
   color: white;
 }
+
 
 
 
